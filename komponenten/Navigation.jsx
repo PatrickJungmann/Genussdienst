@@ -10,13 +10,13 @@ export default function Navigation() {
         <div className="shadow sticky-top p-2 mb-2 bg-danger">
             <div className="d-flex justify-content-between align-items-center">
                 <Link href="/">
-                    <Image src={'/bilder/logo.png'} alt="logo" width={175} height={90} />
+                    <Image src={'/Bilder/logo.png'} alt="logo" width={175} height={90} />
                 </Link>
 
                 <div style={{ position: "relative", marginRight: "15px" }}>
                     <Link href="/warenkorb">
                         <div style={{ position: "relative" }}>
-                            <Image src={'/bilder/warenkorb.png'} alt="warenkorb" width={30} height={30} />
+                            <Image src={'/Bilder/warenkorb.png'} alt="warenkorb" width={30} height={30} />
                             {wAnzahl > 0 && (
                                 <Badge pill bg="success" style={{ position: "absolute", right: "20px", top: "-13px" }}>{wAnzahl}</Badge>
                             )}

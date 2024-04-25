@@ -7,7 +7,7 @@ export default function Slider() {
             <Carousel controls={false} fade={true} interval={2000} className="d-flex w-100 rounded-3 ">
                 <Carousel.Item >
                     <Image className="d-flex h-100 w-100 rounded-3 "
-                        src='/bilder/essen/burger.jpg'
+                        src='/Bilder/Essen/burger.jpg'
                         alt="burger"
                         width={3000}
                         height={1000}
@@ -16,7 +16,7 @@ export default function Slider() {
                 </Carousel.Item>
                 <Carousel.Item>
                     <Image className="d-flex h-100 w-100 rounded-3 "
-                        src='/bilder/essen/pizza.jpg'
+                        src='/Bilder/Essen/pizza.jpg'
                         alt="pizza"
                         width={3000}
                         height={1000}
@@ -25,7 +25,7 @@ export default function Slider() {
                 </Carousel.Item>
                 <Carousel.Item>
                     <Image className="d-flex h-100 w-100 rounded-3 "
-                        src='/bilder/essen/burrito.jpg'
+                        src='/Bilder/Essen/burrito.jpg'
                         alt="burrito"
                         width={3000}
                         height={1000}
