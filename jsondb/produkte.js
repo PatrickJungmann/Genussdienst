@@ -6,7 +6,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 12.50,
       url: 'burger',
-      bild: '/bilder/Produkte/burger.jpg',
+      bild: '/Bilder/Produkte/burger.jpg',
       extras: [
         {
           text: "extra Käse (+0,50 €) ",
@@ -24,7 +24,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 12.50,
       url: 'cheeseburger',
-      bild: '/bilder/Produkte/cheeseburger.jpg',
+      bild: '/Bilder/Produkte/cheeseburger.jpg',
       extras: [
         {
           text: "extra Käse (+0,50 €) ",
@@ -42,7 +42,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 3.50,
       url: 'pommes',
-      bild: '/bilder/Produkte/pommes.jpg',
+      bild: '/Bilder/Produkte/pommes.jpg',
       extras: [
         {
           text: "Ketchup (Gratis)",
@@ -80,7 +80,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 3.50,
       url: 'süßkartoffel-pommmes',
-      bild: '/bilder/Produkte/süßkartoffel-pommes.jpg',
+      bild: '/Bilder/Produkte/süßkartoffel-pommes.jpg',
       extras: [
         {
           text: "Ketchup (Gratis)",
@@ -118,7 +118,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 8.50,
       url: 'bolognese',
-      bild: '/bilder/Produkte/bolognese.jpg',
+      bild: '/Bilder/Produkte/bolognese.jpg',
       extras: [
         {
           text: "Glutenfrei (+2,00 €) ",
@@ -136,7 +136,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 12.50,
       url: 'lasagne',
-      bild: '/bilder/Produkte/lasagne.jpg',
+      bild: '/Bilder/Produkte/lasagne.jpg',
       extras: [
         {
           text: "Glutenfrei (+2,00 €) ",
@@ -154,7 +154,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 8.00,
       url: 'pizza-genuss',
-      bild: '/bilder/Produkte/pizza-genuss.jpg',
+      bild: '/Bilder/Produkte/pizza-genuss.jpg',
       extras: [
         {
           text: "mit Champignons (+0,50 €) ",
@@ -172,7 +172,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 8.00,
       url: 'pizza-salami',
-      bild: '/bilder/Produkte/pizza-salami.jpg',
+      bild: '/Bilder/Produkte/pizza-salami.jpg',
       extras: [
         {
           text: "mit Champignons (+0,50 €) ",
@@ -190,7 +190,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 20.00,
       url: 'schnitzel',
-      bild: '/bilder/Produkte/schnitzel.jpg',
+      bild: '/Bilder/Produkte/schnitzel.jpg',
       extras: [
         {
           text: "kleine Portion Pommes (+1,50 €) ",
@@ -212,7 +212,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 16.50,
       url: 'lachsfilet',
-      bild: '/bilder/Produkte/lachsfilet.jpg',
+      bild: '/Bilder/Produkte/lachsfilet.jpg',
       extras: [
         {
           text: "kleine Portion Nudeln (+1,50 €) ",
@@ -230,7 +230,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 8.00,
       url: 'falafel',
-      bild: '/bilder/Produkte/falaffel.jpg',
+      bild: '/Bilder/Produkte/falaffel.jpg',
       extras: [
         {
           text: "kleine Portion Pommes (+1,50 €) ",
@@ -248,7 +248,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 7.00,
       url: 'lahmacun',
-      bild: '/bilder/Produkte/lahmacun.jpg',
+      bild: '/Bilder/Produkte/lahmacun.jpg',
       extras: [
         {
           text: "Knoblauch-Kräuter Dip (+0,30 €) ",
@@ -266,7 +266,7 @@ const jsondb = {
       kategorie: 'Getränke',
       preis: 1.50,
       url: 'cola',
-      bild: '/bilder/Produkte/cola.jpg',
+      bild: '/Bilder/Produkte/cola.jpg',
       extras: [
         {
           text: "extra kalt (+0,10 €) ",
@@ -280,7 +280,7 @@ const jsondb = {
       kategorie: 'Getränke',
       preis: 2.50,
       url: 'redbull',
-      bild: '/bilder/Produkte/redbull.jpg',
+      bild: '/Bilder/Produkte/redbull.jpg',
       extras: [
         {
           text: "extra kalt (+0,10 €) ",
@@ -294,7 +294,7 @@ const jsondb = {
       kategorie: 'Nachspeise',
       preis: 2.50,
       url: 'erdbeereis',
-      bild: '/bilder/Produkte/eis.jpg',
+      bild: '/Bilder/Produkte/eis.jpg',
       extras: [
         {
           text: "Schokoladensoße (+0,75 €) ",
@@ -312,7 +312,7 @@ const jsondb = {
       kategorie: 'Nachspeise',
       preis: 3.50,
       url: 'muffin',
-      bild: '/bilder/Produkte/muffin.jpg',
+      bild: '/Bilder/Produkte/muffin.jpg',
       extras: [
         {
           text: "Streusel (+0,20 €) ",
