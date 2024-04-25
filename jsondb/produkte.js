@@ -190,7 +190,7 @@ const jsondb = {
       kategorie: 'Hauptgericht',
       preis: 20.00,
       url: 'schnitzel',
-      bild: '/bilder/produkte/schnitzel.jpg',
+      bild: '/bilder/Produkte/schnitzel.jpg',
       extras: [
         {
           text: "kleine Portion Pommes (+1,50 €) ",
